@@ -32,6 +32,7 @@ The 35 validation questions are grouped into five tiers:
 - Python 3.10+
 - [Together AI](https://together.ai/) API key (for Llama-3.2 inference)
 - [OpenAI](https://platform.openai.com/) API key (for embeddings + GPT-4o evaluation)
+- [Constitution of India PDF](https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf) — download and place as `indiaconstitution.pdf` in the project root
 
 ### Install
 

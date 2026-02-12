@@ -1,0 +1,247 @@
+[
+    {
+      "id": 1,
+      "category": "Tier 1: Direct Retrieval",
+      "question": "What is the minimum age required to be qualified for election as President of India?",
+      "answer": "A person must have completed the age of thirty-five years to be eligible for election as President.",
+      "citation": "[cite: 854]"
+    },
+    {
+      "id": 2,
+      "category": "Tier 1: Direct Retrieval",
+      "question": "Which article prohibits the employment of children in factories?",
+      "answer": "Article 24 prohibits the employment of children below the age of fourteen years in any factory or mine or in any other hazardous employment.",
+      "citation": "[cite: 746]"
+    },
+    {
+      "id": 3,
+      "category": "Tier 1: Direct Retrieval",
+      "question": "Who appoints the Governor of a State?",
+      "answer": "The Governor of a State is appointed by the President by warrant under his hand and seal.",
+      "citation": "[cite: 1180]"
+    },
+    {
+      "id": 4,
+      "category": "Tier 1: Direct Retrieval",
+      "question": "What is the official language of the Union according to Article 343?",
+      "answer": "The official language of the Union shall be Hindi in Devanagari script.",
+      "citation": "[cite: 45]"
+    },
+    {
+      "id": 5,
+      "category": "Tier 1: Direct Retrieval",
+      "question": "Who has the power to issue a Proclamation of Emergency?",
+      "answer": "The President has the power to issue a Proclamation of Emergency if satisfied that a grave emergency exists threatening the security of India.",
+      "citation": "[cite: 47]"
+    },
+    {
+      "id": 6,
+      "category": "Tier 1: Direct Retrieval",
+      "question": "What is the maximum duration permitted between two sessions of Parliament?",
+      "answer": "Six months shall not intervene between the last sitting of one session and the date appointed for the first sitting in the next session.",
+      "citation": "[cite: 955]"
+    },
+    {
+      "id": 7,
+      "category": "Tier 2: Multi-Hop / Linked Reasoning",
+      "question": "How does a Money Bill passed by the House of the People become law if the Council of States does not return it within 14 days?",
+      "answer": "If the Council of States does not return the Money Bill within fourteen days, it is deemed to have been passed by both Houses at the expiration of that period in the form in which it was passed by the House of the People.",
+      "citation": "[cite: 1028]"
+    },
+    {
+      "id": 8,
+      "category": "Tier 2: Multi-Hop / Linked Reasoning",
+      "question": "Can a person who is not a member of Parliament become a Minister, and if so, for how long?",
+      "answer": "Yes, a person can be a Minister without being a member of Parliament, but they must become a member of either House within six consecutive months, otherwise, they cease to be a Minister.",
+      "citation": "[cite: 906]"
+    },
+    {
+      "id": 9,
+      "category": "Tier 2: Multi-Hop / Linked Reasoning",
+      "question": "If the President wants to resign, to whom must he address his resignation, and who must be communicated to immediately?",
+      "answer": "The President must address his resignation to the Vice-President, who must then forthwith communicate it to the Speaker of the House of the People.",
+      "citation": "[cite: 848], [cite: 849]"
+    },
+    {
+      "id": 10,
+      "category": "Tier 2: Multi-Hop / Linked Reasoning",
+      "question": "What definition of 'population' is used for the allotment of seats in the Legislative Assembly of a State until the year 2026?",
+      "answer": "Until 2026, 'population' is construed as a reference to the 1971 census for the total number of seats, and the 2001 census for the division of territorial constituencies.",
+      "citation": "[cite: 19]"
+    },
+    {
+      "id": 11,
+      "category": "Tier 2: Multi-Hop / Linked Reasoning",
+      "question": "Under Article 22, can a person be detained in custody beyond twenty-four hours without judicial authority?",
+      "answer": "No, every person arrested and detained must be produced before the nearest magistrate within twenty-four hours (excluding travel time), and no one shall be detained beyond this period without the authority of a magistrate.",
+      "citation": "[cite: 728]"
+    },
+    {
+      "id": 12,
+      "category": "Tier 2: Multi-Hop / Linked Reasoning",
+      "question": "Can the emoluments and allowances of the President be diminished during his term of office?",
+      "answer": "No, the emoluments and allowances of the President shall not be diminished during his term of office.",
+      "citation": "[cite: 858]"
+    },
+    {
+      "id": 13,
+      "category": "Tier 3: Comparative Analysis",
+      "question": "How does the oath of the President differ from the oath of the Governor regarding the entity they serve?",
+      "answer": "The President swears to devote himself to the service and well-being of the people of India, whereas the Governor swears to devote himself to the service and well-being of the people of the State.",
+      "citation": "[cite: 861], [cite: 1181]"
+    },
+    {
+      "id": 14,
+      "category": "Tier 3: Comparative Analysis",
+      "question": "Does the Governor's power to grant pardons extend to death sentences in the same way as the President's?",
+      "answer": "The President has the power to grant pardons in all cases where the sentence is death. The Constitution explicitly states that the President's power to suspend, remit or commute a sentence of death does not affect the power exercisable by the Governor of a State under any law for the time being in force.",
+      "citation": "[cite: 892], [cite: 1182]"
+    },
+    {
+      "id": 15,
+      "category": "Tier 3: Comparative Analysis",
+      "question": "What is the difference in the composition of the electoral college for the President versus the Vice-President?",
+      "answer": "The President is elected by elected members of both Houses of Parliament and elected members of Legislative Assemblies of States. The Vice-President is elected by the members of an electoral college consisting of the members of both Houses of Parliament (which includes nominated members).",
+      "citation": "[cite: 839], [cite: 871]"
+    },
+    {
+      "id": 16,
+      "category": "Tier 3: Comparative Analysis",
+      "question": "How does the definition of a 'Money Bill' differ regarding the imposition of fines in the Union Parliament versus the State Legislature?",
+      "answer": "They are similar; both Article 110 (Union) and Article 199 (State) exclude bills that provide for the imposition of fines or other pecuniary penalties from being deemed Money Bills by reason only of such provisions.",
+      "citation": "[cite: 1034], [cite: 1200]"
+    },
+    {
+      "id": 17,
+      "category": "Tier 3: Comparative Analysis",
+      "question": "Compare the expiration timeline of an Ordinance promulgated by the President versus one by the Governor if the legislature takes no action.",
+      "answer": "Both Ordinances cease to operate at the expiration of six weeks from the reassembly of the Parliament (for the President) or the Legislature (for the Governor).",
+      "citation": "[cite: 1074], [cite: 1208]"
+    },
+    {
+      "id": 18,
+      "category": "Tier 3: Comparative Analysis",
+      "question": "What is the difference in the retirement age for a Judge of the Supreme Court versus a Judge of the High Court?",
+      "answer": "A Judge of the Supreme Court holds office until the age of sixty-five years, whereas a Judge of the High Court holds office until the age of sixty-two years.",
+      "citation": "[cite: 1079], [cite: 1209]"
+    },
+    {
+      "id": 19,
+      "category": "Tier 4: Scenario/Application",
+      "question": "A State Legislature passes a law that is repugnant to a Central law on a Concurrent List subject. Under what condition can the State law prevail in that State?",
+      "answer": "The State law will prevail in that State if it has been reserved for the consideration of the President and has received his assent.",
+      "citation": "[cite: 30]"
+    },
+    {
+      "id": 20,
+      "category": "Tier 4: Scenario/Application",
+      "question": "The term of the House of the People is due to expire during a Proclamation of Emergency. Can it be extended?",
+      "answer": "Yes, Parliament may by law extend the term for a period not exceeding one year at a time and not extending beyond a period of six months after the Proclamation has ceased to operate.",
+      "citation": "[cite: 949]"
+    },
+    {
+      "id": 21,
+      "category": "Tier 4: Scenario/Application",
+      "question": "A person is arrested on grounds of being an enemy alien. Does he have the constitutional right to be defended by a legal practitioner of his choice under Article 22?",
+      "answer": "No, the protections of Article 22(1) and (2), including the right to a legal practitioner, do not apply to any person who is an enemy alien.",
+      "citation": "[cite: 728]"
+    },
+    {
+      "id": 22,
+      "category": "Tier 4: Scenario/Application",
+      "question": "The office of the Speaker of the House of the People is vacant. Who performs the duties of the office?",
+      "answer": "The duties are performed by the Deputy Speaker. If that office is also vacant, the President may appoint a member of the House of the People to perform the duties.",
+      "citation": "[cite: 974]"
+    },
+    {
+      "id": 23,
+      "category": "Tier 4: Scenario/Application",
+      "question": "A member of a State Legislative Assembly submits a resignation to the Speaker. Under what circumstances can the Speaker refuse to accept it?",
+      "answer": "The Speaker shall not accept the resignation if, after making an inquiry, he is satisfied that the resignation is not voluntary or genuine.",
+      "citation": "[cite: 1195]"
+    },
+    {
+      "id": 24,
+      "category": "Tier 4: Scenario/Application",
+      "question": "A Money Bill is introduced in the Legislative Council of a State. Is this procedurally valid?",
+      "answer": "No, Article 198 states that a Money Bill shall not be introduced in a Legislative Council.",
+      "citation": "[cite: 1199]"
+    },
+    {
+      "id": 25,
+      "category": "Tier 5: Negative Constraints",
+      "question": "Does the Constitution explicitly mention a 'Right to Privacy' in Part III?",
+      "answer": "No, the text of Part III (Fundamental Rights) does not explicitly mention a 'Right to Privacy'. Article 21 mentions protection of life and personal liberty.",
+      "citation": "[cite: 94], [cite: 723]"
+    },
+    {
+      "id": 26,
+      "category": "Tier 5: Negative Constraints",
+      "question": "Does the Governor have the power to appoint Judges of the High Court?",
+      "answer": "No, Judges of the High Court are appointed by the President.",
+      "citation": "[cite: 1209]"
+    },
+    {
+      "id": 27,
+      "category": "Tier 5: Negative Constraints",
+      "question": "Can the validity of advice tendered by Ministers to the President be inquired into by the Supreme Court?",
+      "answer": "No, the Constitution states that the question whether any, and if so what, advice was tendered by Ministers to the President shall not be inquired into in any court.",
+      "citation": "[cite: 900]"
+    },
+    {
+      "id": 28,
+      "category": "Tier 5: Negative Constraints",
+      "question": "Can a person be compelled to pay taxes for the promotion of a specific religion?",
+      "answer": "No, Article 27 states that no person shall be compelled to pay any taxes specifically appropriated for the promotion or maintenance of any particular religion.",
+      "citation": "[cite: 754]"
+    },
+    {
+      "id": 29,
+      "category": "Tier 5: Negative Constraints",
+      "question": "Does Article 330 of the Constitution (as of 2022) explicitly reserve seats for women in the House of the People?",
+      "answer": "No, Article 330 only provides for the reservation of seats for Scheduled Castes and Scheduled Tribes.",
+      "citation": "[cite: 39], [cite: 504]"
+    },
+    {
+      "id": 30,
+      "category": "Tier 5: Negative Constraints",
+      "question": "Can the State make a law that takes away Fundamental Rights?",
+      "answer": "Article 13(2) prohibits the State from making any law that takes away or abridges Fundamental Rights, declaring such laws void. However, Article 13(4) clarifies that this does not apply to Constitutional amendments made under Article 368.",
+      "citation": "[cite: 680], [cite: 682]"
+    },
+        {
+          "id": 31,
+          "category": "Global Understanding & Thematic Analysis",
+          "question": "Synthesize the constitutional framework designed to secure the 'Independence of the Judiciary,' citing provisions related to appointments, removal, financial autonomy, and immunity from legislative discussion.",
+          "answer": "The Constitution secures judicial independence through multiple mechanisms: (1) Security of Tenure: Judges can only be removed via a rigorous impeachment process (Art. 124(4), 217). (2) Financial Autonomy: Administrative expenses and salaries are 'charged' upon the Consolidated Fund of India/State (Art. 146(3), 229(3)) and cannot be varied to their disadvantage (Art. 125, 221). (3) Immunity: The conduct of judges cannot be discussed in Parliament or State Legislatures (Art. 121, 211). (4) Separation of Powers: Article 50 (DPSP) directs the separation of the judiciary from the executive.",
+          "citation": "Articles 50, 121, 124, 125, 146, 211, 217, 221, 229"
+        },
+        {
+          "id": 32,
+          "category": "Global Understanding & Thematic Analysis",
+          "question": "Analyze the 'Unitary Bias' within the Indian federal structure by identifying provisions that allow the Union to override State autonomy in legislative, administrative, and emergency contexts.",
+          "answer": "The Constitution exhibits a strong unitary bias through: (1) Emergency Provisions: The Union assumes unitary control during National Emergency (Art. 352) or President's Rule (Art. 356). (2) Legislative Supremacy: Parliament can legislate on State subjects in the 'national interest' (Art. 249) or during emergencies (Art. 250). (3) Administrative Control: The Centre can issue binding directions to States (Art. 256, 257). (4) Governor's Office: The Governor is appointed by the President (Art. 155) and holds office during his pleasure (Art. 156), acting as the Centre's agent.",
+          "citation": "Articles 155, 156, 249, 250, 256, 257, 352, 356"
+        },
+        {
+          "id": 33,
+          "category": "Global Understanding & Thematic Analysis",
+          "question": "Trace the constitutional scheme for Affirmative Action and the advancement of Scheduled Castes/Tribes (SC/ST) across Fundamental Rights, Directive Principles, and Political Representation.",
+          "answer": "The framework includes: (1) Fundamental Rights: The State can make special provisions for advancement (Art. 15(4)) and reservation in appointments/posts (Art. 16(4), 16(4A)). (2) Directive Principles: Art. 46 mandates the promotion of educational and economic interests of SC/STs. (3) Political Representation: Seats are reserved in the House of the People (Art. 330), State Assemblies (Art. 332), and Panchayats/Municipalities (Art. 243D, 243T). (4) Institutional Safeguards: National Commissions (Art. 338, 338A) investigate rights violations.",
+          "citation": "Articles 15, 16, 46, 243D, 243T, 330, 332, 338, 338A"
+        },
+        {
+          "id": 34,
+          "category": "Global Understanding & Thematic Analysis",
+          "question": "Examine the distribution of Financial Powers between the Union and States, specifically focusing on the mechanisms for tax sharing and the role of the Goods and Services Tax (GST) Council.",
+          "answer": "Financial relations are structured by: (1) Distinct Taxing Powers: Union List vs. State List. (2) Tax Sharing: Taxes levied by the Union but collected/appropriated by States (Art. 268) or distributed between them (Art. 270) based on Finance Commission recommendations (Art. 280). (3) Grants: Grants-in-aid are provided to States in need (Art. 275). (4) GST Framework: Article 246A provides concurrent powers for GST, while Article 279A establishes the GST Council (Center-State body) to make recommendations on rates and implementation.",
+          "citation": "Articles 246A, 268, 270, 275, 279A, 280"
+        },
+        {
+          "id": 35,
+          "category": "Global Understanding & Thematic Analysis",
+          "question": "How does the Constitution regulate the amendment process to balance flexibility with rigidity? Categorize the amendment procedures based on the majority required.",
+          "answer": "The Constitution provides three tiers of amendment: (1) Simple Majority: For admitting new states, altering boundaries, or abolition of Legislative Councils (Art. 2, 3, 169)—these are explicitly deemed 'not amendments' under Art. 368. (2) Special Majority: Most provisions require a majority of total membership and 2/3rds of members present and voting (Art. 368(2)). (3) Special Majority + Ratification: Federal provisions (e.g., Election of President, Supreme Court/High Courts, 7th Schedule) require ratification by not less than one-half of State Legislatures (Proviso to Art. 368(2)).",
+          "citation": "Articles 2, 3, 169, 368"
+        }
+  ]
